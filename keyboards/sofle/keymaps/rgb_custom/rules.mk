@@ -1,0 +1,11 @@
+MOUSEKEY_ENABLE = no
+EXTRAKEY_ENABLE = yes
+CONSOLE_ENABLE = no
+RGBLIGHT_ENABLE = yes
+ENCODER_ENABLE = no
+LTO_ENABLE = yes
+OLED_ENABLE = no
+OLED_DRIVER = SSD1306
+SERIAL_DRIVER = bitbang # non hardware accelerated serial driver with single connection
+# UNICODE_COMMON = yes
+UNICODE_ENABLE = yes
